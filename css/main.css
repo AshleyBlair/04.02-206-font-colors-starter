@@ -9,7 +9,6 @@ section {
   margin: auto;
 }
 
-@media (max-width: 767px) {
   h1 {
     font-size: 2em;
     color: #7b7d70;
@@ -23,7 +22,7 @@ section {
   p {
     color: #ff8641;
   }
-}
+
 
 
 /*------- TABLET -------*/
